@@ -7,7 +7,7 @@
 ##  Github
   [Create a Repository](https://help.github.com/articles/create-a-repo/)
   
-  [Fork](https://help.github.com/articles/create-a-repo/)
+  [Cloning, Forking, Commiting & Updating](https://github.com/josephferris/ksquare-javascript-bootcamp/blob/try/week-1/day-01/lectures/github/README.md)
 #Exercise
   Fork this repository and download the repository to your computer
 ##Questionnaire
@@ -17,7 +17,7 @@ finally push the changes to your github repository. If you decide to change it w
 readme.md file, click the edit icon and start answering the questions.
   1. What is Git?
   2. What is Github?
-  3. Describe the command that were used on Try Git tutorial (Use a table).
+  3. Describe the commands that were used on Try Git tutorial (Use a table).
   4. What are the main advantages?
   
 ###Answers
@@ -47,3 +47,5 @@ readme.md file, click the edit icon and start answering the questions.
 #Useful Links
 
 [Github Markdown readme file references](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Mac terminal Commands](https://github.com/0nn0/terminal-mac-cheatsheet)
