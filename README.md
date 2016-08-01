@@ -7,7 +7,7 @@
 ##  Github
   [Create a Repository](https://help.github.com/articles/create-a-repo/)
   
-  [Cloning, Forking, Commiting & Updating](https://github.com/josephferris/ksquare-javascript-bootcamp/blob/try/week-1/day-01/lectures/github/README.md)
+  [Cloning, Forking, Commiting & Updating](https://github.com/KsquareLabs/exercise-git/blob/master/github/readme.md)
 #Exercise
   Fork this repository and download the repository to your computer
 ##Questionnaire
